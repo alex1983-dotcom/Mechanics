@@ -27,6 +27,7 @@ venv/
 .env/
 .venv/
 mechanics-venv/
+.obsidian/
 
 # VS Code
 .vscode/
