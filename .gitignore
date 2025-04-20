@@ -26,6 +26,7 @@ env/
 venv/
 .env/
 .venv/
+mechanics-venv/
 
 # VS Code
 .vscode/
